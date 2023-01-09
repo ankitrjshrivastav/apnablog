@@ -1,12 +1,12 @@
 # apnablog
 
 Click here to see live demo: [click here](https://apnablogs.netlify.app/)
-
-<p>Login/Signup screens</p>
+<hr>
+<p><b>Login/Signup screens</b></p>
 <img src="/images/img1.jpeg" alt="login-signup screens" style="width:450px"/>
 <br>
-<p>Landing screen with all the blogs</p>
+<p><b>Landing screen with all the blogs</b></p>
 <img src="/images/img2.jpeg" alt="landing-page screen" style="width:450px"/>
 <br>
-<p>Add blog interface</p>
+<p><b>Add blog interface</b></p>
 <img src="/images/img3.jpeg" alt="add-blog screen" style="width:450px"/>
