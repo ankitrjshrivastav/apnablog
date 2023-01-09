@@ -4,12 +4,16 @@ Click here to see live demo: [click here](https://apnablogs.netlify.app/)
 
 <h2>Techstack used:</h2>
 <h3>Frontend<h3>
-- React
-- Material UI
-- Redux
+ <ul>
+      <li>React</li>
+     <li>Material UI</li>
+     <li>Redux</li>
+  </ul>
 <h3>Backend<h3>
-- Express.js
-- MongoDB
+   <ul>
+      <li>Express.js</li>
+     <li>MongoDB</li>
+  </ul>
 
 <hr>
 <p><b>Login/Signup screens</b></p>
