@@ -36,7 +36,7 @@ function App() {
               <Route path="/myBlogs" element={<UserBlogs />} />
               <Route path="/myBlogs/:id" element={<BlogDetail />} />{" "}
             </>
-          )}
+         )}
         </Routes>
       </main>
     </React.Fragment>

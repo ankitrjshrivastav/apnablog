@@ -1,5 +1,6 @@
 import express from "express";
 import mongoose from "mongoose";
+// import blogRouter from "./routes/blog-routes";
 import blogRouter from "./routes/blog-routes";
 import router from "./routes/user-routes";
 import cors from "cors";
@@ -17,4 +18,4 @@ mongoose
   .then(() =>
     console.log("Connected TO Database")
   )
-  .catch((err) => console.log(err));
+  .catch((err) => console.log('db conn error: ',err));
